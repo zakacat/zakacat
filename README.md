@@ -4,7 +4,7 @@
 
  **Age**: 31  
  **Sex**: Male  
- **Nationality**: Canadian (Ukraninian and German Mennonite decendent)  
+ **Nationality**: Canadian (Ukranian and German Mennonite decendent)  
  **Current Residence**: Vancouver Island, BC, Canada  
  **Hobbies**: Running, Video Games(but I am not good), School Projects, Youtube, Socializing, Hiking, Biking, Exploring  
  **Personal Descriptors**: Punctual, Hardworking, Loyal, Curious, Comedic, Ambitious, Enterprising, Easygoing (most of the time), Contmeplative  
