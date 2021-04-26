@@ -29,6 +29,8 @@ My grades in highschool were not good, but I always had a bit of interest in sto
 English IS communication, and communication is how we as humans share ideas, thoughts, opinions, and information. English is the neccesay basis for documentation, and documentation is a critical tool for communicating information.
 
 #### Work Ethic
+
+(Work in progress)
 <!---
 zakacat/zakacat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
