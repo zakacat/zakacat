@@ -17,7 +17,7 @@ I would absolutely love a job that would give me the freedom to constantly chall
 
 - Get a part-time job with development.
 - Continue education with an intent to get the best grades possible (translated as- to take away as much from the course as possible).
-- Create an impressive app.
+- Create an impressive app to hopefully become available on the App Store.
 - Contribute to an open source project with like-minded people.
 
 ### <ins>Related Skills</ins>
