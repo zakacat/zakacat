@@ -48,7 +48,7 @@ I think a person should strive for an engaging, fun, fair, productive, constantl
 ****Include here my current educational situation****
 
 #### CPS 100
-****include different concepts and topics i.e. polymorphism, recursion, run-time, static classes/methods, templates, etc. inlcude commented out explanations <!--- here--->
+****include different concepts and topics i.e. polymorphism, recursion, run-time, static classes/methods, templates, etc. inlcude commented out explanations <!--- here --->
 #### JavaFX
 
 #### Intro to App Development
