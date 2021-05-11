@@ -12,14 +12,14 @@
 I come from a varied background (workwise), but I have a goal that I am working on actualizing. I want to be a programmer and software engineer. I am currently in my first year of engineering studies and I very glad that I came back to school. I am also a Red Seal Journeyman Iron worker, which is a bit unrelated, but the transition of work type does not scare me (maybe it is a bit intimidating) because I think I love learning new things. The first year of Engineering at my college has a very open pathway that can lead to many different disciplines, and working in construction for 7+ years, I thought that doing civil or structural engineering was a perfect fit. Even so, I found myself drawn to programming. In my first semester of CPS (using Java), we were taught some basics and my virtual world opened... but it soon felt closed again. I was working with JavaFX on my winter break (yes, willingly). I started a course as an elective which was Introduction to Android Development, and I then realized that this is a tool that I want to become proficient with. This is something that I can bring along with me, perfect, get summer work, and truly dive into the deep end with. This is the tool with which I will enjoy proving my knowledge. I can test, run, share with friends, and research endlessly with Android. 
 
 I would absolutely love a job that would give me the freedom to constantly challenge myself intellectually and travel the world. People may use the term digital nomad, and that may be a fair assignment, but I have been nomadic almost my entire life. I am just digitizing.
-
+***
 ### <ins>Current Goals</ins>
 
 - Get a part-time job with development (For the fall semester 2021)
 - Continue education with an intent to get the best grades possible (translated as- to take away as much from the course as possible).
 - Create an impressive app to hopefully become available on the App Store.
 - Contribute to an open-source project with like-minded people.
-
+***
 ### <ins>Related Skills</ins>
 
 Here is some anecdotal evidence of certain skills that might be sought after in a potential employee.
@@ -65,27 +65,99 @@ Voy a intentar a explicar sin tranductor.
 Quiero apprender mas espanol. Yo vive en Colombia por un ano, y mi espanol podria ser mejor. Si hay opportunidades para trabajar con clientes espanoles, entonces quiza yo podria hablar en espanol un poquito. El mas de espanol conozco es por esenando ingles, entonces sabo sujectos, objectos, adjectivos, verbos, sustantivos, oraciones, structura, conditonales, imperitivos, y mas.
 
 Donde esta el bano?
-
-### <ins>Current Experience</ins>
+***
+### <ins>Experience</ins>
 (In chronological order)
 
-****Include here my current educational situation****
+<!-- Spending way too much time on the hacking portion of the Matrix game for PS2 -->
 
-#### CPS 100
-****include different concepts and topics i.e. polymorphism, recursion, run-time, static classes/methods, templates, etc. include commented out explanations 
-<!-- here -->
-#### JavaFX
+#### CPS 100 (with Java)
+Course Description:
 
-#### Intro to App Development
+>"This course is an introduction to computer programming. Students will be introduced to problem solving methods and algorithm development using the object-oriented programming paradigm. The students will learn how to apply problem analysis, program design, and program implementation while using the top-down and stepwise refinement design methods. The course also provides an introduction to the object-oriented programming paradigm and recursive functions. The content of this course will provide a sound basis for later courses in computer science. Note: Basic computing skills are assumed." (North Island College Course Catalog)
 
-#### Android Fundamentals
+Included Concepts:
 
-****Plan to pursue software engineering and Android Development in the long term****
+- Object Orientated Programming 
+- Classes and Methods
+- Variable Types (encapsulation and primitive data types)
+- Multidimensional Arrays
+- Conditonals
+- Loops
+- Static Methods and Classes
+- Abstract Classes
+- Parent/Child Hierarchy and Inheritance
+- Recursion*
+- Searching (Linear and Binary)
 
+I would like to brush up again on a few of these topics.
+
+<!-- Here, like this. -->
+#### JavaFX 
+
+Not a course but a subsection of the text from my CPS 100 course. Similar concepts were covered in regard to JavaFX specifically. Generally, I understood how to create a fully interactive single pane (window or activity). Many UI concepts tranferred over into Android Development such as View widgets, layouts, and event handlers. JavaFX was not included in CPS 100 so I studied it during my free-time of the 2020 winter break.
+
+#### DGL-114 Intro to App Development
+
+Course Description:
+
+>"This course introduces application (app) development for mobile devices. Students will learn how to install and configure appropriate Integrated Development Environment (IDE) for mobile app development and how to leverage IDE features and tools to build functional mobile apps. Platform-specific design patterns and app life-cycle features will be introduced as part of this course." (North Island College Course Catalog)
+
+Included Concepts:
+
+- Android Studio IDE
+- Layouts
+- Widgets
+- MVC model
+- Resources, Styles, and Themes
+- Debugging
+- Activity Lifecycle
+- Screen Rotations
+- Save State
+- Implicit and Explicit Intents
+- Menus (App Bar and Context)
+- Dialogs
+- Touch Gestures
+- Local Data
+- Databasing with SQLite and Room
+- Recycler View and Cards
+- Background and AsyncTask
+
+#### Android Fundamentals by Developer.android.com (In Progress)
+
+Course Description:
+
+>"In the Android Developer Fundamentals course, you learn basic Android programming concepts and build a variety of apps, using the Java programming language. You start with Hello World and work your way up to apps that schedule jobs, update settings, and use Android Architecture Components." (https://developer.android.com/courses/fundamentals-training/overview-v2)
+
+Included Concepts:
+
+- Text and Scrolling Views
+- Android Developer Resources
+- Activities and Intents
+- Activity Life Cycle and Intents
+- Implicit Intents
+- Debugger
+- Unit Tests
+- Clickable Images, Input, Menus, Pickers, User Navigation (Up arrow and Navigation Drawer), and RecyclerView
+- Drawables, Cards, Styles, and Adaptive Layouts
+- Espresso UI testing
+- AsyncTask and AsyncTask Loader
+- Broadcast Receivers
+- Notifications
+- Alarm Manager
+- JobScheduler
+- Shared Preferences
+- App Settings
+- Room, LiveData, and ViewModel
+
+
+#### Plan to Pursue Software Engineering and Android Development in the Long Term
+***
 ### <ins>References</ins>
 
-****I am not sure what to do here. I suppose get a reference letter and then add them to the repository. Then I can add sections of quotes that are the most honest and flattering****
+****I am not sure what to do here. I suppose get a reference letter and then add them to the repository. Then I can add sections of quotes that are the most honest and flattering, I can have the reference letters and transcript hidden and then give access for anyone who is wanting to get more information.****
 <!---
 zakacat/zakacat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+\*Recursion*
