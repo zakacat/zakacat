@@ -1,5 +1,5 @@
 ## Zak (zakacat) Toews
-### *WORK IN PROGRESS
+
 ### <ins>Introduction</ins>
 
  **Age**: 31  
@@ -158,7 +158,7 @@ I would like to continue with the courses that are available on developer.androi
 ***
 ### <ins>References</ins>
 
-****I am not sure what to do here. I suppose get a reference letter and then add them to the repository. Then I can add sections of quotes that are the most honest and flattering, I can have the reference letters and transcript hidden and then give access for anyone who is wanting to get more information.****
+I have made myself an asset at every job that I have had. I have reference letters and/or numbers of references available by request.
 <!---
 zakacat/zakacat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
