@@ -123,7 +123,7 @@ Included Concepts:
 - Recycler View and Cards
 - Background and AsyncTask
 
-#### **Android Fundamentals by Developer.android.com (In Progress)**
+#### **Android Fundamentals by Developer.android.com**
 
 Course Description:
 
