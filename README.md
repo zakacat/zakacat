@@ -123,6 +123,13 @@ Included Concepts:
 - Recycler View and Cards
 - Background and AsyncTask
 
+Related Repositories:
+
+-Color Match Game https://github.com/zakacat/Color-Match-Game
+-Dice Roller App https://github.com/zakacat/Dice-Roller-App
+-To-Do List App https://github.com/zakacat/To-do-List-App
+-Recycler/Database App https://github.com/zakacat/Recycler-Database-App
+
 #### **Android Fundamentals by Developer.android.com**
 
 Course Description:
@@ -149,6 +156,10 @@ Included Concepts:
 - Shared Preferences
 - App Settings
 - Room, LiveData, and ViewModel
+
+Related Repositories:
+
+- Fundamentals Mini-Capstone https://github.com/zakacat/FundamentalsCapstone (Work in Progress)
 
 
 #### **Plan to Pursue Software Engineering and Android Development in the Long Term**
