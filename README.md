@@ -162,6 +162,36 @@ Related Repositories:
 - Fundamentals Mini-Capstone https://github.com/zakacat/FundamentalsCapstone (Work in Progress)
 
 
+#### **Kotlin Bootcamp for Programmers by Developer.android.com** (Work in Progress)
+
+>In the Kotlin Bootcamp for Programmers course, you learn the basics of Kotlin as you create various small programs in IntelliJ IDEA. The course materials include course codelabs with suggested homework assignments. You'll get the most value out of this course if you work through the lessons in sequence, but it's not a requirement. Depending on your knowledge, you may be able to skim some sections." (https://developer.android.com/courses/kotlin-bootcamp/overview)
+
+Included Concepts:
+
+-Kotlin REPL
+-Basic Syyntax
+-Data Types
+-Operators
+-Variables (Var & Val)
+-Booleans and Conditions
+-Arrays, Lists, and Loops
+-main() Function
+-Defualt Values
+-Compact Functions
+-List Filters
+-Basic Lambdas
+-Higher-order Functions
+-Classes, Objects, and Inheritence
+-Collections, Contstants, and Extension Functions
+-Pairs, Triples, Lists, and Hash Maps
+-Generic Classes
+-Annotations, Labeled Breaks, and Single Abstract Methods (SAMs)
+
+Related Repositories:
+
+- Nothing to show, yet.
+
+
 #### **Plan to Pursue Software Engineering and Android Development in the Long Term**
 
 I would like to continue with the courses that are available on developer.android.com. I am also considering the certificate that is offered, but I am not sure yet if that would be worth the cost of the exam. I will keep an eye on Udemy for related courses. I would like to create mini-capstone apps for these courses that showcase all the concepts that were taught. I also have a couple app ideas that I would like to work on. I won't be in another programming related course until Winter 2022 by the looks of it (CPS 101 with Java).
