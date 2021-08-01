@@ -168,24 +168,24 @@ Related Repositories:
 
 Included Concepts:
 
--Kotlin REPL
--Basic Syyntax
--Data Types
--Operators
--Variables (Var & Val)
--Booleans and Conditions
--Arrays, Lists, and Loops
--main() Function
--Defualt Values
--Compact Functions
--List Filters
--Basic Lambdas
--Higher-order Functions
--Classes, Objects, and Inheritence
--Collections, Contstants, and Extension Functions
--Pairs, Triples, Lists, and Hash Maps
--Generic Classes
--Annotations, Labeled Breaks, and Single Abstract Methods (SAMs)
+- Kotlin REPL
+- Basic Syyntax
+- Data Types
+- Operators
+- Variables (Var & Val)
+- Booleans and Conditions
+- Arrays, Lists, and Loops
+- main() Function
+- Defualt Values
+- Compact Functions
+- List Filters
+- Basic Lambdas
+- Higher-order Functions
+- Classes, Objects, and Inheritence
+- Collections, Contstants, and Extension Functions
+- Pairs, Triples, Lists, and Hash Maps
+- Generic Classes
+- Annotations, Labeled Breaks, and Single Abstract Methods (SAMs) 
 
 Related Repositories:
 
