@@ -95,7 +95,7 @@ I would like to brush up again on a few of these topics.
 <!-- Here, like this. -->
 #### **JavaFX** 
 
-Not a course but a subsection of the text from my CPS 100 course. Similar concepts were covered in regard to JavaFX specifically. Generally, I understood how to create a fully interactive single pane (window or activity). Many UI concepts tranferred over into Android Development such as View widgets, layouts, and event handlers. JavaFX was not included in CPS 100 so I studied it during my free-time of the 2020 winter break.
+Not a course but a subsection of the text from my CPS 100 course. Similar concepts were covered in regard to JavaFX specifically. Generally, I understood how to create a fully interactive single pane (window or activity). Many UI concepts transferred over into Android Development such as View widgets, layouts, and event handlers. JavaFX was not included in CPS 100 so I studied it during my free-time of the 2020 winter break.
 
 #### **DGL-114 Intro to App Development**
 
@@ -169,7 +169,7 @@ Related Repositories:
 Included Concepts:
 
 - Kotlin REPL
-- Basic Syyntax
+- Basic Syntax
 - Data Types
 - Operators
 - Variables (Var & Val)
@@ -181,8 +181,8 @@ Included Concepts:
 - List Filters
 - Basic Lambdas
 - Higher-order Functions
-- Classes, Objects, and Inheritence
-- Collections, Contstants, and Extension Functions
+- Classes, Objects, and Inheritance
+- Collections, Constants, and Extension Functions
 - Pairs, Triples, Lists, and Hash Maps
 - Generic Classes
 - Annotations, Labeled Breaks, and Single Abstract Methods (SAMs) 
