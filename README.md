@@ -2,7 +2,7 @@
 
 ### <ins>Introduction</ins>
 
- **Age**: 31  
+ **Age**: 34  
  **Sex**: Male  
  **Nationality**: Canadian (Ukrainian and German Mennonite descendant)  
  **Current Residence**: Vancouver Island, BC, Canada  
